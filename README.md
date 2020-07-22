@@ -1,6 +1,6 @@
 # Server for React-contact-list Project
 
-This is a backend server for the React-contact-list app
+This is a backend server for the React-contact-list app (https://github.com/HirenChafekar/React-contact-list)
 
 ## Getting Set Up
 
